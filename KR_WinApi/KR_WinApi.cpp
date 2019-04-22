@@ -229,6 +229,7 @@ INT_PTR CALLBACK DlgProc(HWND hwndDlg, UINT msg, WPARAM wParam,
 	}
 	}
 	return FALSE;
+
 }
 
 class Application
